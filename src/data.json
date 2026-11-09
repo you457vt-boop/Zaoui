@@ -1,0 +1,61 @@
+
+{
+  "continents": [
+    {
+      "Code": "AF",
+      "Name": "Moroco",
+      "SurfaceArea": 30370000,
+      "Population": 1460000000,
+      "avatar": "/images/public/images/9ara 1.png",
+      "pays": []
+    },
+    {
+      "Code": "AS",
+      "Name": "Asia",
+      "SurfaceArea": 44579000,
+      "Population": 4800000000,
+      "avatar": "/images/asia.png",
+      "pays": []
+    },
+    {
+      "Code": "EU",
+      "Name": "Europe",
+      "SurfaceArea": 10180000,
+      "Population": 745000000,
+      "avatar": "/images/europe.png",
+      "pays": []
+    },
+    {
+      "Code": "NA",
+      "Name": "North America",
+      "SurfaceArea": 24709000,
+      "Population": 600000000,
+      "avatar": "/images/north-america.png",
+      "pays": []
+    },
+    {
+      "Code": "SA",
+      "Name": "South America",
+      "SurfaceArea": 17840000,
+      "Population": 440000000,
+      "avatar": "/images/south-america.png",
+      "pays": []
+    },
+    {
+      "Code": "OC",
+      "Name": "Oceania",
+      "SurfaceArea": 8600000,
+      "Population": 46000000,
+      "avatar": "/images/oceania.png",
+      "pays": []
+    },
+    {
+      "Code": "AN",
+      "Name": "Antarctica",
+      "SurfaceArea": 14200000,
+      "Population": 0,
+      "avatar": "/images/antarctica.png",
+      "pays": []
+    }
+  ]
+}
